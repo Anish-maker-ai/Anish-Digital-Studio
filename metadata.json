@@ -1,0 +1,8 @@
+{
+  "name": "Anish Digital Studio",
+  "description": "Premium Creative & Digital Agency Website for Anish Kumar Singh",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
